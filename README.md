@@ -18,7 +18,7 @@
 
 <p align="center">Ghost · Astronaut · Crow · Lightning · Flame · Skull</p>
 
-[Get started](#get-started) · [Visual examples](#visual-examples) · [How it works](#how-it-works) · [Outputs](#outputs)
+<p align="center">[Get started](#get-started) · [Visual examples](#visual-examples) · [How it works](#how-it-works) · [Outputs](#outputs)</p>
 
 ## Get started
 
