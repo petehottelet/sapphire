@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/brand/sapphire-logo.png" alt="SAPPHIRE — Bebas Neue lettering in dark refractive glass" width="900">
+  <img src="assets/brand/sapphire-logo.png" alt="SAPPHIRE — Druk Wide Super lettering in dark refractive glass" width="900">
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ The assistant needs an image-generation or editing tool. Exact typography also n
 
 Then ask:
 
-> Use Sapphire to create the word SAPPHIRE in Bebas Neue. Typeset the actual font first, then apply the glass effect to the letterforms. Export a transparent PNG.
+> Use Sapphire to create the word SAPPHIRE in Druk Wide Super. Typeset the actual font first, then apply the glass effect to the letterforms. Export a transparent PNG.
 
 Or start from a shape:
 
@@ -44,11 +44,11 @@ Specify the subject, dimensions or aspect ratio, font when relevant, background,
 
 ### Typography: silhouette to glass
 
-The wordmark starts with **Bebas Neue Regular**, typeset from the actual font. The optical material is applied to the letters themselves, including the edges of their counters.
+The wordmark starts with **Druk Wide Super**, typeset from the actual font. The optical material is applied to the letters themselves, including the edges of their counters.
 
 | Typeset silhouette | Sapphire treatment |
 | --- | --- |
-| ![Flat SAPPHIRE silhouette in Bebas Neue Regular](assets/brand/sapphire-silhouette-preview.png) | ![SAPPHIRE with dark glass, cyan caustics, and warm spectral fringes](assets/brand/sapphire-logo.png) |
+| ![Flat SAPPHIRE silhouette in Druk Wide Super](assets/brand/sapphire-silhouette-preview.png) | ![SAPPHIRE with dark glass, cyan caustics, and warm spectral fringes](assets/brand/sapphire-logo.png) |
 
 [Transparent wordmark PNG](assets/brand/sapphire-logo.png) · [Transparent silhouette PNG](assets/brand/sapphire-silhouette.png)
 
@@ -84,7 +84,7 @@ Sapphire is a set of instructions, references, and examples for an image-capable
 - **Native masters:** preserved at the actual generated resolution.
 - **Contact sheets:** multiple assets on one transparent canvas when requested.
 
-The bundled contact sheet is **3840 × 2560**. Each icon has a **1254 × 1254** lossless master and a **512 × 512** WebP export. The wordmark PNG is **2173 × 724**, with genuine transparency. Raster artwork is not an editable vector.
+The bundled contact sheet is **3840 × 2560**. Each icon has a **1254 × 1254** lossless master and a **512 × 512** WebP export. The wordmark PNG is **2172 × 724**, with genuine transparency. Raster artwork is not an editable vector.
 
 ## Reference
 
@@ -97,4 +97,4 @@ The bundled contact sheet is **3840 × 2560**. Each icon has a **1254 × 1254** 
 
 ## Attribution
 
-Keep the [third-party artwork notice](references/THIRD-PARTY-NOTICES.txt) with redistributed example icons and contact sheets. The wordmark uses Bebas Neue Regular; no font binaries are bundled. Use fonts and source artwork you have permission to use.
+Keep the [third-party artwork notice](references/THIRD-PARTY-NOTICES.txt) with redistributed example icons and contact sheets. The wordmark uses Druk Wide Super; no font binaries are bundled. Use fonts and source artwork you have permission to use.
