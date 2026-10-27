@@ -1,0 +1,23 @@
+{
+  "badges/agent-skill.svg": "7b270547c8463b15d6bd94dd8d98281ceb5a8170bf15578018983604030f81da",
+  "badges/examples.svg": "630249c4e3ab28b59c131d762139c40e68aad718e3d76c7f8711c7c9a2893660",
+  "badges/formats.svg": "04580478a1640e9e84dd9fffd175114e49bb2e4a239181d0cf757d1c8170c474",
+  "badges/silhouette-first.svg": "2bacdc39b822c1464d7ae986667ba3509a234e81308faf426a832389d834f9ee",
+  "badges/transparent.svg": "2d1a425141bf4868ccddb1e618007fd0c31453c6234dca4211f453c49b49b157",
+  "brand/sapphire-logo.png": "b133419c110fd0358ece29d4932a2dbbbde6001adbc4d23d1670c95388923ad3",
+  "brand/sapphire-silhouette-preview.png": "c4d2d72080288859920e401a73e7e02ed18af8dc0976e0f210a1fdfd26fea673",
+  "brand/sapphire-silhouette.png": "e5f2b6f9f2d5b38fcf1ba3760dab6a15d2771daa43200718acdab7b085b1e414",
+  "examples/astronaut.webp": "5ac7542ad7ff00bd8b7a1fd490f101b2e9e9ffbc6865f0a21dcd5fca19e986ec",
+  "examples/contact-sheet.png": "5ca7c35642837f0346f6c595ca6a8bec4125dc675c97e955155f8fd258c556c1",
+  "examples/crow.webp": "615ec00017d4647be532466d3700b62871e1f018a041e1ab45fcde724eba1b11",
+  "examples/flame.webp": "6350fb49d45df8febfae2276eba6d1326baa20726aa1a8709b37979667a93a5f",
+  "examples/ghost.webp": "6b562d292f3bc82ae18a863d250d3e25823eb9f4ea4a978a5a03015f667949be",
+  "examples/lightning.webp": "d6973deff5175cec0a84325a203b9d61cf63d9bc8c33bcf288bfdcc00765109d",
+  "examples/masters/astronaut.webp": "af8fa58f646de1086f92a96ecb0c60d4e926179dee2016b9506f3320e3f85902",
+  "examples/masters/crow.webp": "03b259735299594303475faa8e0945fff0eb32b23e4e5c5dac692904feab2b39",
+  "examples/masters/flame.webp": "213acc73fd8f05fde6fe603f6c931c07c51ec04c4100718b19b0d247489e0b06",
+  "examples/masters/ghost.webp": "2f18e2be5adbadc214ed7970724e69cbb9f553f306edcfb65556280bbb584d36",
+  "examples/masters/lightning.webp": "5d5dc0e61d70e2fce549cfea0ec3b3081a947990354927ad9e95b4df4de57d9b",
+  "examples/masters/skull.webp": "72777213674bcca93ec14ae454c20c72c4e30506b03958a89e3163cca84e8f28",
+  "examples/skull.webp": "6b222c31442dee4b5c4968a21e43f5a51397d3867da47273d122e940a7d77ad3"
+}

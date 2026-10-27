@@ -1,0 +1,30 @@
+THIRD-PARTY ARTWORK ATTRIBUTION
+
+This notice accompanies the six example raster icons and their contact sheet.
+Underlying icon designs: Font Awesome Free 7.3.1, Classic Solid,
+by Fonticons, Inc. Copyright 2026 Fonticons, Inc.
+https://fontawesome.com
+
+Source icons are licensed under Creative Commons Attribution 4.0 International:
+https://creativecommons.org/licenses/by/4.0/
+Upstream license information: https://fontawesome.com/license/free
+
+Modifications: generative raster adaptation; white filled material, black convex
+glass, refractive highlights, chromatic aberration, optical distortion, scaling,
+placement, lossless encoding, and contact-sheet composition. The adaptations are
+not exact vector rasterizations. No endorsement by the original creator is implied.
+Keep this credit, license link, modification notice, and source links with copies.
+
+Source files at upstream commit 14c65a3747d0f3b751f15831fc719236aea8729d:
+
+Ghost: https://github.com/FortAwesome/Font-Awesome/blob/14c65a3747d0f3b751f15831fc719236aea8729d/svgs/solid/ghost.svg
+
+Astronaut: https://github.com/FortAwesome/Font-Awesome/blob/14c65a3747d0f3b751f15831fc719236aea8729d/svgs/solid/user-astronaut.svg
+
+Crow: https://github.com/FortAwesome/Font-Awesome/blob/14c65a3747d0f3b751f15831fc719236aea8729d/svgs/solid/crow.svg
+
+Lightning: https://github.com/FortAwesome/Font-Awesome/blob/14c65a3747d0f3b751f15831fc719236aea8729d/svgs/solid/bolt.svg
+
+Flame: https://github.com/FortAwesome/Font-Awesome/blob/14c65a3747d0f3b751f15831fc719236aea8729d/svgs/solid/fire-flame-curved.svg
+
+Skull: https://github.com/FortAwesome/Font-Awesome/blob/14c65a3747d0f3b751f15831fc719236aea8729d/svgs/solid/skull.svg

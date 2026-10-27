@@ -1,0 +1,215 @@
+{
+  "encoding": "Pillow WebP lossless, method=6, exact=True",
+  "web_resize": "Lanczos to 512 x 512; no upscaling",
+  "verification": "All alpha values and RGB values for pixels with nonzero alpha exactly match the corresponding uncompressed image at each resolution. Invisible RGB values are not material to appearance.",
+  "icons": [
+    {
+      "name": "ghost",
+      "generated_source_sha256": "c8c6a0d977a8314935be58a915436510f6a686d1f95ba376b369237277dfa0a6",
+      "outputs": [
+        {
+          "variant": "master",
+          "path": "assets/examples/masters/ghost.webp",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 880076,
+          "optimized_png_comparison_bytes": 1177203,
+          "format": "lossless WebP",
+          "alpha_equal": true,
+          "visible_rgb_equal": true
+        },
+        {
+          "variant": "web",
+          "path": "assets/examples/ghost.webp",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 180228,
+          "optimized_png_comparison_bytes": 239936,
+          "format": "lossless WebP",
+          "alpha_equal": true,
+          "visible_rgb_equal": true
+        }
+      ]
+    },
+    {
+      "name": "astronaut",
+      "generated_source_sha256": "b1f2dc373bd6b61cba3d0f9e70e1171695d95bb465fbafce43e06e9f0129022e",
+      "outputs": [
+        {
+          "variant": "master",
+          "path": "assets/examples/masters/astronaut.webp",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 898136,
+          "optimized_png_comparison_bytes": 1204103,
+          "format": "lossless WebP",
+          "alpha_equal": true,
+          "visible_rgb_equal": true
+        },
+        {
+          "variant": "web",
+          "path": "assets/examples/astronaut.webp",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 186980,
+          "optimized_png_comparison_bytes": 249254,
+          "format": "lossless WebP",
+          "alpha_equal": true,
+          "visible_rgb_equal": true
+        }
+      ]
+    },
+    {
+      "name": "crow",
+      "generated_source_sha256": "b9ec305bd1a1313465461ff012c48d0f6b3516248fa02774fa70733f09ab84e5",
+      "outputs": [
+        {
+          "variant": "master",
+          "path": "assets/examples/masters/crow.webp",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 889598,
+          "optimized_png_comparison_bytes": 1191433,
+          "format": "lossless WebP",
+          "alpha_equal": true,
+          "visible_rgb_equal": true
+        },
+        {
+          "variant": "web",
+          "path": "assets/examples/crow.webp",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 182474,
+          "optimized_png_comparison_bytes": 243516,
+          "format": "lossless WebP",
+          "alpha_equal": true,
+          "visible_rgb_equal": true
+        }
+      ]
+    },
+    {
+      "name": "lightning",
+      "generated_source_sha256": "064bb2856d2af3cf67fb4defece0c9c3e6a9c06a3f507cedd14d95c00e5645ac",
+      "outputs": [
+        {
+          "variant": "master",
+          "path": "assets/examples/masters/lightning.webp",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 877098,
+          "optimized_png_comparison_bytes": 1178685,
+          "format": "lossless WebP",
+          "alpha_equal": true,
+          "visible_rgb_equal": true
+        },
+        {
+          "variant": "web",
+          "path": "assets/examples/lightning.webp",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 179866,
+          "optimized_png_comparison_bytes": 239650,
+          "format": "lossless WebP",
+          "alpha_equal": true,
+          "visible_rgb_equal": true
+        }
+      ]
+    },
+    {
+      "name": "flame",
+      "generated_source_sha256": "a90b3eec6336bc1daf20b1bf91acad9e36a6414a1b9ad9a785fc2db50c689fb1",
+      "outputs": [
+        {
+          "variant": "master",
+          "path": "assets/examples/masters/flame.webp",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 879352,
+          "optimized_png_comparison_bytes": 1176756,
+          "format": "lossless WebP",
+          "alpha_equal": true,
+          "visible_rgb_equal": true
+        },
+        {
+          "variant": "web",
+          "path": "assets/examples/flame.webp",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 183926,
+          "optimized_png_comparison_bytes": 244294,
+          "format": "lossless WebP",
+          "alpha_equal": true,
+          "visible_rgb_equal": true
+        }
+      ]
+    },
+    {
+      "name": "skull",
+      "generated_source_sha256": "a409cc2af47727ef4b1f159a1a346b73411d85ba13d79a13527cbd457a20f228",
+      "outputs": [
+        {
+          "variant": "master",
+          "path": "assets/examples/masters/skull.webp",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 894622,
+          "optimized_png_comparison_bytes": 1193778,
+          "format": "lossless WebP",
+          "alpha_equal": true,
+          "visible_rgb_equal": true
+        },
+        {
+          "variant": "web",
+          "path": "assets/examples/skull.webp",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 184072,
+          "optimized_png_comparison_bytes": 243582,
+          "format": "lossless WebP",
+          "alpha_equal": true,
+          "visible_rgb_equal": true
+        }
+      ]
+    }
+  ],
+  "contact_sheet": {
+    "path": "assets/examples/contact-sheet.png",
+    "dimensions": [
+      3840,
+      2560
+    ],
+    "format": "PNG",
+    "color_mode": "RGBA",
+    "background": "transparent",
+    "labels": false,
+    "grid": [
+      3,
+      2
+    ],
+    "bytes": 7118790
+  }
+}
