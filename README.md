@@ -10,7 +10,7 @@
   <a href="#icon-examples"><img src="assets/badges/examples.svg" alt="Examples: 6 icons"></a>
 </p>
 
-**Turn silhouettes into optical glass.** Sapphire is an agent skill for creating typography, logos, icons, objects, and illustrations with dark convex glass, lenticular refraction, compact spectral highlights, and restrained chromatic aberration.
+**Easily make optical glass typography, logos, icons, objects, illustrations and other visuals in the style of Apple's new iTunes icon.** Sapphire is an agent skill for creating artwork and assets with dark convex glass, lenticular refraction, and compact spectral highlights.
 
 <a id="icon-examples"></a>
 
