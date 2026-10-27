@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/brand/sapphire-logo.png" alt="SAPPHIRE — Druk Wide Super lettering in dark refractive glass" width="900">
+  <img src="assets/brand/sapphire-logo-compact.svg" alt="SAPPHIRE — Druk Wide Super lettering in dark refractive glass" width="900">
 </p>
 
 <p align="center">
