@@ -1,5 +1,7 @@
 # Production export
 
+Before sharing, inspect file metadata for private information, including EXIF location, author fields, comments, and source paths. Remove unnecessary metadata while preserving color profiles needed for faithful display and required artwork attribution. Check visible artwork for unintended private text as well; stripping metadata does not remove text rendered into pixels.
+
 Keep a lossless artwork master at its actual generated resolution. Preserve an input SVG or real-font geometry reference separately when requested. Do not call a raster wrapper an editable vector or imply that upscaling restores missing detail.
 
 Honor the requested format. For transparent PNG requests, deliver RGBA PNG with a real alpha channel. Otherwise, compare optimized PNG and lossless WebP at matching resolution and choose the smaller faithful artifact appropriate to the destination. Verify alpha and visible RGB fidelity after decoding; do not assume lossy formats preserve chromatic fringes.

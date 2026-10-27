@@ -30,7 +30,7 @@ npx skills add petehottelet/sapphire
 
 Requires **Node.js 22.20 or later**. To install for all your projects, add `-g`. To update later, run `npx skills update sapphire`. See the [skills CLI documentation](https://skills.sh/docs/cli).
 
-**Private repository:** while this repo is private, installation requires GitHub access to `petehottelet/sapphire` and Git authentication on your computer.
+**Installer privacy:** the third-party skills CLI collects telemetry by default. To opt out, set `DISABLE_TELEMETRY=1` before installation or updates. In PowerShell, run `$env:DISABLE_TELEMETRY = "1"`; in bash or zsh, run `export DISABLE_TELEMETRY=1`. See the [CLI telemetry documentation](https://skills.sh/docs/cli#telemetry).
 
 **Rendering requirement:** Sapphire provides instructions and visual references; it does not install an image model. Your agent needs an image-generation or editing tool with transparent output support. Exact typography also needs the requested font.
 
@@ -106,6 +106,21 @@ The bundled contact sheet is **3840 × 2560**. Each icon has a **1254 × 1254** 
 - [Material rules and prompt recipes](references/style-and-prompts.md)
 - [Export guidance](references/export.md)
 - [Example assets](references/examples.md)
+
+## Privacy
+
+Sapphire is a collection of instructions and bundled artwork; it has no runtime analytics or upload service. Your host assistant and image provider handle prompts and uploaded references under their own settings and policies. Supply only the source material needed for the graphic, and remove private text and metadata before sharing exports.
+
+## Validation
+
+With Python 3.11 or later, Pillow, and Ruff installed, run the offline checks:
+
+```sh
+python -m ruff check .
+python -m unittest discover -s tests -v
+```
+
+The suite checks bundled asset hashes, export dimensions and sizes, real transparency, image metadata, and local documentation links. No image provider calls are made.
 
 ## Attribution
 

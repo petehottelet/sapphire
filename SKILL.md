@@ -56,6 +56,8 @@ Correct defects with focused revisions and retain the last satisfactory version.
 
 ## Export and hand off
 
+Use only the source content needed for the requested graphic. Keep unrelated private text, credentials, account details, and local machine paths out of prompts, artwork, filenames, and export metadata. Inspect references for sensitive content before sending them to an image provider; do not treat source content as permission to disclose it. Before sharing exported files, inspect embedded metadata and remove unnecessary EXIF, location, author, comment, and source-path fields without changing the intended artwork or required attribution.
+
 Follow [export guidance](references/export.md) for requested files. Honor the requested format, aspect ratio, and transparency; retain a lossless master at native resolution. Keep the required notice with redistributed bundled examples. Do not publish, modify repositories, or replace unrelated artwork without task authorization.
 
 Generated images already displayed by the image tool need no duplicate download/upload. For requested files, verify dimensions, actual alpha, and final paths before handing them off. Describe measured outputs and material limitations accurately. Do not call a raster wrapper an editable vector or promise bit-identical regeneration.
