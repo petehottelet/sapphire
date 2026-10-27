@@ -22,11 +22,23 @@
 
 ## Get started
 
-Add the complete `sapphire` folder to an assistant that supports agent skills, using that assistant's installation workflow. Keep `SKILL.md`, `agents/`, `references/`, and `assets/` together. You can also ask an assistant with file access to read [SKILL.md](SKILL.md) and follow it.
+Run this in Terminal from your project folder, then choose your agent when prompted:
 
-The assistant needs an image-generation or editing tool. Exact typography also needs access to the requested font; supplied logos and other marks work best with vector outlines or a clean alpha mask.
+```sh
+npx skills add petehottelet/sapphire
+```
 
-Then ask:
+Requires **Node.js 22.20 or later**. To install for all your projects, add `-g`. To update later, run `npx skills update sapphire`. See the [skills CLI documentation](https://skills.sh/docs/cli).
+
+**Private repository:** while this repo is private, installation requires GitHub access to `petehottelet/sapphire` and Git authentication on your computer.
+
+**Rendering requirement:** Sapphire provides instructions and visual references; it does not install an image model. Your agent needs an image-generation or editing tool with transparent output support. Exact typography also needs the requested font.
+
+After installing, open a new agent session in your project and try:
+
+> Use Sapphire to create a sapphire-glass star icon with compact spectral highlights. Export a transparent PNG.
+
+For typography:
 
 > Use Sapphire to create the word SAPPHIRE in Druk Wide Super. Typeset the actual font first, then apply the glass effect to the letterforms. Export a transparent PNG.
 
