@@ -16,9 +16,11 @@
 
 [![Six Sapphire icons: Ghost, Astronaut, Crow, Lightning, Flame, and Skull](assets/examples/contact-sheet.png)](assets/examples/contact-sheet.png)
 
-<p align="center">Ghost · Astronaut · Crow · Lightning · Flame · Skull</p>
+<p align="center">
 
-<p align="center"> [Get started](#get-started) · [Visual examples](#visual-examples) · [How it works](#how-it-works) · [Outputs](#outputs) </p>
+[Get started](#get-started) · [Visual examples](#visual-examples) · [How it works](#how-it-works) · [Outputs](#outputs) 
+
+</p>
 
 ## Get started
 
