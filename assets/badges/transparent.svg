@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="20" role="img" aria-label="background: transparent">
+<title>background: transparent</title>
+<linearGradient id="shade" x2="0" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient>
+<clipPath id="round"><rect width="154" height="20" rx="3"/></clipPath>
+<g clip-path="url(#round)"><path fill="#344154" d="M0 0h76v20H0z"/><path fill="#0891b2" d="M76 0h78v20H76z"/><path fill="url(#shade)" d="M0 0h154v20H0z"/></g>
+<g fill="#fff" text-anchor="middle" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11"><text x="38.0" y="15" fill="#010101" fill-opacity=".3">background</text><text x="38.0" y="14">background</text><text x="115.0" y="15" fill="#010101" fill-opacity=".3">transparent</text><text x="115.0" y="14">transparent</text></g>
+</svg>
