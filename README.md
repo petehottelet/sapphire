@@ -12,13 +12,11 @@
 
 **Easily make optical glass typography, logos, icons, objects, illustrations and other visuals in the style of Apple's new iTunes icon.** Sapphire is an agent skill for creating artwork and assets with dark convex glass, lenticular refraction, and compact spectral highlights.
 
+[Get started](#get-started) · [Visual examples](#visual-examples) · [How it works](#how-it-works) · [Outputs](#outputs) 
+
 <a id="icon-examples"></a>
 
 [![Six Sapphire icons: Ghost, Astronaut, Crow, Lightning, Flame, and Skull](assets/examples/contact-sheet.png)](assets/examples/contact-sheet.png)
-
-<center>
-[Get started](#get-started) · [Visual examples](#visual-examples) · [How it works](#how-it-works) · [Outputs](#outputs) 
-</center>
 
 
 ## Get started
