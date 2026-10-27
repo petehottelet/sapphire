@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sapphire"
+  short_description: "Optical glass graphics, typography, logos, and icons"
+  default_prompt: "Use $sapphire to create this graphic with dark optical glass, compact spectral highlights, and restrained chromatic aberration."
