@@ -2,10 +2,6 @@
   <img src="assets/brand/sapphire-logo.png" alt="SAPPHIRE — Bebas Neue lettering in dark refractive glass" width="900">
 </p>
 
-# Sapphire
-
-**Turn silhouettes into optical glass.** Sapphire is an agent skill for creating typography, logos, icons, objects, and illustrations with dark convex glass, lenticular refraction, compact spectral highlights, and restrained chromatic aberration.
-
 <p align="center">
   <a href="SKILL.md"><img src="assets/badges/agent-skill.svg" alt="Agent Skill: SKILL.md"></a>
   <a href="#how-it-works"><img src="assets/badges/silhouette-first.svg" alt="Workflow: silhouette first"></a>
@@ -13,6 +9,14 @@
   <a href="#outputs"><img src="assets/badges/formats.svg" alt="Formats: PNG + WebP"></a>
   <a href="#icon-examples"><img src="assets/badges/examples.svg" alt="Examples: 6 icons"></a>
 </p>
+
+**Turn silhouettes into optical glass.** Sapphire is an agent skill for creating typography, logos, icons, objects, and illustrations with dark convex glass, lenticular refraction, compact spectral highlights, and restrained chromatic aberration.
+
+<a id="icon-examples"></a>
+
+[![Six Sapphire icons: Ghost, Astronaut, Crow, Lightning, Flame, and Skull](assets/examples/contact-sheet.png)](assets/examples/contact-sheet.png)
+
+<p align="center">Ghost · Astronaut · Crow · Lightning · Flame · Skull</p>
 
 [Get started](#get-started) · [Visual examples](#visual-examples) · [How it works](#how-it-works) · [Outputs](#outputs)
 
@@ -48,11 +52,7 @@ The wordmark starts with **Bebas Neue Regular**, typeset from the actual font. T
 
 [Transparent wordmark PNG](assets/brand/sapphire-logo.png) · [Transparent silhouette PNG](assets/brand/sapphire-silhouette.png)
 
-### Icon examples
-
-[![Six Sapphire icons: Ghost, Astronaut, Crow, Lightning, Flame, and Skull](assets/examples/contact-sheet.png)](assets/examples/contact-sheet.png)
-
-Top row: **Ghost · Astronaut · Crow**. Bottom row: **Lightning · Flame · Skull**.
+### Icons
 
 The icon examples use a luminous white symbol inside a rounded-square optical lens. Typography, logos, and standalone objects use their own silhouettes as the glass surface.
 
